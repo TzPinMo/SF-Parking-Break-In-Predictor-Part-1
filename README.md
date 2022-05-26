@@ -8,7 +8,7 @@ To give driver's a “peace of mind,” the best way could be by showing users w
 
 To help drivers estimate whether a parking spot is risky or not, we will be implementing a classification model that can learn from historical data to recognize patterns and identify which “class” the input data belongs to, i.e. low risk/medium risk/high risk to park. We have obtained public data from SFPD that could be leveraged to help train the model. The data includes valuable potential variables such as crime type, location, coordinates, day of week, and time of crime - we assume these factors contribute to whether an area is safe to park. 
 
-## Part 1 Model Training
+## Part 1: Model Training
 
 To train the classification model, labels (Y variable) were added to our datasets so that the model can learn how different X variables might lead to specific classes. In this scenario, the labels include “low risk”, “medium risk”, and “high risk” based on where  and when the break-in happened. Using PySpark, we were able to label the data and the methodology and rules are as follows: 
 
