@@ -1,5 +1,5 @@
 # SF-Parking-Break-In-Predictor
-Built classification models to train on 5 years of SFPD data to predict level of break-in risk when parking
+Building a classification models to train on 5 years of SFPD data to predict level of break-in risk when parking
 
 Data Source: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783
 Dataset: https://drive.google.com/file/d/1nV9_STKb-F0zhr_iQmkPIbVVEUs1Djpg/view?usp=sharing
