@@ -1,6 +1,8 @@
 # SF-Parking-Break-In-Predictor
 Built classification models to train on 5 years of SFPD data to predict level of break-in risk when parking
 
+Data Source: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783
+Dataset: https://drive.google.com/file/d/1nV9_STKb-F0zhr_iQmkPIbVVEUs1Djpg/view?usp=sharing
 
 “The car break-in capital of the world”, which is another name for San Francisco. Even right now, there are many cars broken-in and stolen stuff out of cars. According to articles, car break-ins happen 74 cars in a day (NBC, 2021), and more than 3,000 cars in a month, November 2021 (CBS, 2021). It undermines San Francisco’s reputation, which is a representative city in the US, and damages the social community. In addition, criminals of car break-ins mainly target tourists because most of them are struggling from handling the cases and they are having more valuables in a car. Due to these reasons, bad reputations of San Francisco have been widespread in the world. Drivers should consider safety from car break-in when they park in the city. We are coming up with a social good product which informs people about the danger level of the current location, so that drivers can avoid dangerous places and park their cars at safer places.
 
